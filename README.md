@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Archit Bankey</h1>
-<h3 align="center">Aspiring data analyst with practical experience in Python, SQL, and Power BI, backed by real-world projects in stock analysis and customer behavior insights. Looking for a Data Analyst Internship to transform raw data into meaningful business intelligence. Comfortable working with large datasets and presenting insights through clear visualizations and reports</h3>
+<h1 align="center">Archit Bankey</h1>
+<h3 align="center">Aspiring data analyst with practical experience in Python, SQL, and Power BI, backed by real-world projects in stock analysis and customer behavior insights.</h3>
 
 - 🌱 I’m currently learning **scikit learn**
 
-- 📫 How to reach me **bankeyarchit52@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/archit bankey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit bankey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/architbankey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit bankey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
