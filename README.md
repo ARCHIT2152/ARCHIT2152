@@ -1,8 +1,5 @@
 <h1 align="center">Archit Bankey</h1>
-<h3 align="center">Aspiring data analyst with practical experience in Python, SQL, and Power BI, backed by real-world projects in stock analysis and customer behavior insights.</h3>
-
-- 🌱 I’m currently learning **scikit learn**
-
+<h3 align="left">Aspiring data analyst with practical experience in Python, SQL, and Power BI, backed by real-world projects in stock analysis and customer behavior insights.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/archit-bankey-99214a245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit bankey" height="30" width="40" /></a>
