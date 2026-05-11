@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit Bankey</h1>
-<h3 align="center">🎓 B.Tech AI/ML @ MIT-ADT Pune | IBM Certified in ML & Generative AI 🔬 I build end-to-end ML pipelines across domains — healthcare, finance, energy, security & retail. My projects span classification, regression, time series forecasting, computer vision, and market analysis. 🛠️ Python · XGBoost · YOLOv8 · PyTorch · OpenCV · Pandas · Scikit-learn 💼 Open to internships & collaborations</h3>
+<h3 align="center">🎓 B.Tech AI/ML Student | IBM Certified in ML & Generative AI 🔬 I build end-to-end ML pipelines across domains — healthcare, finance, energy, security & retail. My projects span classification, regression, time series forecasting, computer vision, and market analysis. 🛠️ Python · XGBoost · YOLOv8 · PyTorch · OpenCV · Pandas · Scikit-learn 💼 Open to internships & collaborations</h3>
 
 - 🌱 I’m currently learning **Xgboostpython**
 
